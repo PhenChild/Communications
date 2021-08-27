@@ -1,0 +1,226 @@
+[11/6/21 09:23:41] Ing Pier Maquilón: ‎Los mensajes y las llamadas están cifrados de extremo a extremo. Nadie fuera de este chat, ni siquiera WhatsApp, puede leerlos ni escucharlos.
+[14/6/21 16:06:54] Caro Z. de Martínez: Ingeniero buenas tardes disculpe, de Bolivia le dijeron algo respecto al servidor
+[14/6/21 16:07:01] Caro Z. de Martínez: Es que ahora si ya nos está presionando la Miss
+[14/6/21 16:09:47] Ing Pier Maquilón: El sábado iba a conseguir el espacio, no pude. Hoy voy a comprarlo.
+[14/6/21 16:17:11] Caro Z. de Martínez: Gracias Ing, cuando pueda nos ayuda con las credenciales por favor
+[14/6/21 17:48:02] Ing Pier Maquilón: IP: 200.110.94.21
+Port: 22
+[14/6/21 17:48:20] Ing Pier Maquilón: Voy a facilitarte una clave privada por correo
+[14/6/21 17:48:49] Ing Pier Maquilón: deben usarla para acceder con el usuario: ciifenUsr
+[14/6/21 17:59:26] Caro Z. de Martínez: Listo Ingeniero, el día viernes Dios mediante le mostraremos ya un borrador más sólido del producto
+[14/6/21 18:24:30] Ing Pier Maquilón: Envié el archivo comprimido
+[14/6/21 18:24:49] Ing Pier Maquilón: _L4 1nC0gNiTA*
+[14/6/21 18:26:17] Caro Z. de Martínez: Recibido Ing
+[14/6/21 18:38:33] Caro Z. de Martínez: Pero aún no me llega ningún correo
+[14/6/21 18:41:41] Ing Pier Maquilón: mmm... lo envié a las 18h21
+[14/6/21 18:41:53] Ing Pier Maquilón: mire si no llegó al spam
+[14/6/21 18:42:35] Caro Z. de Martínez: Ya revisé incluso en la papelera
+[14/6/21 18:42:52] Caro Z. de Martínez: Esperare un momento más xq a veces eso pasa con el correo ESPOL
+[14/6/21 18:43:55] Ing Pier Maquilón: ok
+[15/6/21 10:59:23] Caro Z. de Martínez: Ing buenos días
+[15/6/21 10:59:32] Caro Z. de Martínez: disculpe le comento que no me ha llegado el correo
+[15/6/21 10:59:37] Caro Z. de Martínez: q me envió
+[15/6/21 10:59:48] Caro Z. de Martínez: Podría verificar si no le dio algún error de envío?
+‎[15/6/21 11:01:12] Ing Pier Maquilón: phen-child.rar ‎documento omitido
+[15/6/21 11:01:24] Ing Pier Maquilón: Buen día, Lessette. No tenía ningún error
+[15/6/21 11:01:45] Ing Pier Maquilón: pero probablemente fue rechazado por el mail server
+[15/6/21 11:01:47] Ing Pier Maquilón: por el contenido
+[15/6/21 11:01:50] Caro Z. de Martínez: Es raro porque no lo tengo en ninguna parte, la clave del servidor tampoco me llegó
+[15/6/21 11:01:55] Ing Pier Maquilón: es lo que acabo de adjuntarte
+[15/6/21 11:02:17] Ing Pier Maquilón: a veces los servers ni lo mandan al spam, solo lo rechazan
+[15/6/21 11:21:27] Caro Z. de Martínez: Listo Ing gracias
+[15/6/21 11:43:02] Ing Pier Maquilón: Me indican cualquier inquietud
+[15/6/21 11:43:30] Caro Z. de Martínez: Si, hoy a las 14 empezaremos a trabajar
+[15/6/21 11:44:16] Ing Pier Maquilón: muchas gracias
+[15/6/21 11:45:42] Ing Pier Maquilón: en ese servidor
+[15/6/21 11:46:33] Ing Pier Maquilón: Se ha instalado:
+
+*Soluciones generales*
+Apache 2.4.41
+Python 3.7.4   (se accede al mismo con el comando python3.7)
+Postgres 11.5
+NodeJS  12.14.0
+Npm 6.10.3
+Angular 8.3.2
+
+*Librerías espaciales*
+Geos 3.7.2
+Proj4 5.2
+Gdal 2.3.3
+LibXML2 2.7.1
+Json-c 0.13.1-20180305
+PostGIS 2.5.3
+‎[15/6/21 12:38:57] Caro Z. de Martínez: ‎audio omitido
+[15/6/21 12:40:06] Caro Z. de Martínez: Disculpe el audio, es q voy manejando
+[15/6/21 12:41:03] Ing Pier Maquilón: Hola. Es una máquina de desarrollo que pude conseguir. Pueden desinstalar lo que gusten.
+[15/6/21 12:42:12] Caro Z. de Martínez: Gracias Ing
+[15/6/21 12:42:56] Ing Pier Maquilón: Si hay problemas. Indíquenme, tocaría contratar un vps. Iba a hacerlo, pero me asustaron los precios 🙃
+[15/6/21 12:53:37] Caro Z. de Martínez: Jeje claro debe ser, pero lo importante es q hay servidor.
+[15/6/21 12:54:05] Caro Z. de Martínez: Una vez q levantemos el servicio Ing usted nos guiará con el tema del dominio?
+[15/6/21 12:55:50] Ing Pier Maquilón: Sí. Yo le haría la solicitud a Senamhi para que el subdominio apunte a este server
+[15/6/21 13:13:12] Ing Pier Maquilón: Este es un server provisional. SENAMHI ha de estar esperando que le llegue un nuevo equipo que hemos gestionado para ahí implementar.
+[15/6/21 13:16:41] Caro Z. de Martínez: Recibido Ing entonces mejor trabajar con el dominio
+[21/6/21 21:08:15] Caro Z. de Martínez: Buenas noches ingeniero disculpe la hora es q con mis compañeros ya se imagina estamos full con el despliegue del sistema
+[21/6/21 21:10:01] Ing Pier Maquilón: Hola. No hay problema. Todavía seguimos trabajando.
+[21/6/21 21:10:46] Ing Pier Maquilón: Qué sucede?
+[21/6/21 21:15:46] Caro Z. de Martínez: Usted cree q podemos hacer la revisión del sprint el miércoles de 13 a 16h00
+[21/6/21 21:15:59] Caro Z. de Martínez: Es q debe ser formal y debemos grabar y todo lo que implica
+[21/6/21 21:16:11] Caro Z. de Martínez: El jueves presentamos nuestro trabajo en clases
+[21/6/21 21:17:30] Ing Pier Maquilón: Cuánto tiempo sería?
+[21/6/21 21:17:50] Caro Z. de Martínez: Aún faltan 3 sprints claro pero lo que compete las funcionalidades que se han definido para la entrega de ahora deben visualizarse
+[21/6/21 21:18:28] Caro Z. de Martínez: Lo que debemos hacer es mostrarles las funcionalidades puntuales del movil, de la web y el backend un poco menos porque va de la mano con la arquitectura
+[21/6/21 21:18:44] Caro Z. de Martínez: Usted nos indica con cuánto tiempo cuenta y nos ajustamos a eso
+[21/6/21 21:19:08] Caro Z. de Martínez: Pero solo tenemos franja libre todos entre las 13h00 y las 16h00
+[21/6/21 21:19:24] Caro Z. de Martínez: Esta vez si debemos salir todos obligatoriamente en el video de la reunión
+[21/6/21 21:19:45] Ing Pier Maquilón: Ok. Voy a consultar con el director y el pesonal de Senamhi.
+[21/6/21 21:20:04] Ing Pier Maquilón: Mañana espero darles una hora.
+[21/6/21 21:20:17] Caro Z. de Martínez: Listo Ingeniero muchas gracias,
+[21/6/21 21:20:26] Caro Z. de Martínez: Adicional el despliegue de la app
+[21/6/21 21:20:30] Ing Pier Maquilón: Por nada
+[21/6/21 21:20:38] Caro Z. de Martínez: no lo topamos ese día y el dominio del servidor
+[21/6/21 21:20:51] Caro Z. de Martínez: Ya está el front web subido en centos, funciona s/n
+[21/6/21 21:21:07] Caro Z. de Martínez: Aún no hemos hechos los últimos commits pero ya se ha probado
+‎[21/6/21 21:21:37] Caro Z. de Martínez: ‎imagen omitida
+[21/6/21 21:22:26] Ing Pier Maquilón: 👍
+[21/6/21 21:22:41] Caro Z. de Martínez: Igual no es urgente porque ya está en el servidor de ciifen y como la calificación para playStore demora mi compañero generará primero una apk para ser mostrada el miércoles desde un teléfono
+[21/6/21 21:23:23] Caro Z. de Martínez: Pero como nos piden guía de despliegue el está ubicando los pasos para la subida en Google
+[21/6/21 21:23:41] Caro Z. de Martínez: El mañana le hará consultas más puntuales
+[21/6/21 21:24:04] Ing Pier Maquilón: Por el momento trabajemos con Apks
+[21/6/21 21:24:49] Ing Pier Maquilón: Ya cuando esté en los últimos sprints, el penúltimo, podemos subir a Google Play, hay que habilitar la cuenta y eso tiene un costo
+[21/6/21 21:25:16] Caro Z. de Martínez: Listo Ingeniero
+[22/6/21 15:27:36] Caro Z. de Martínez: Buenas tardes Ing 🙋🏽‍♀️
+[22/6/21 15:44:46] Ing Pier Maquilón: Hola, Senamhi no me ha respondido. Pero el director de Ciifen sí me ha confirmado. Estamos en reunión, al salir le preguntaré a qué hora sería.
+[22/6/21 15:45:09] Caro Z. de Martínez: Gracias Ing
+[22/6/21 17:43:26] Ing Pier Maquilón: A las 13h00
+[22/6/21 17:43:43] Ing Pier Maquilón: solo nos acompañaría el director. SENAMHI no me ha respondido
+[22/6/21 17:43:59] Ing Pier Maquilón: con ellos sería después
+[22/6/21 17:46:00] Caro Z. de Martínez: Recibido, muchas gracias… ya le comunico al equipo
+[23/6/21 12:28:56] Ing Pier Maquilón: Hola, Lessette. Nos vemos a la 1, verdad.? Puede facilitarme el enlace?
+[23/6/21 12:31:10] Caro Z. de Martínez: Si Ing buenas tardes
+[23/6/21 12:31:13] Caro Z. de Martínez: ya se lo facilito
+[23/6/21 12:48:22] Caro Z. de Martínez: https://cedia.zoom.us/j/8346047611
+[27/6/21 11:36:11] Caro Z. de Martínez: Buenos días Ingeniero, disculpe la hora y el día. Lo que sucede es que no se si como otras veces no me ha llegado el correo
+[27/6/21 11:36:38] Caro Z. de Martínez: Pero no he recibido de regreso el acta de la reunión pasada ni el formulario de aceptación del sprint
+[27/6/21 11:36:44] Caro Z. de Martínez: Que nos piden entregar
+[27/6/21 12:07:05] Ing Pier Maquilón: Buenas tardes, Lessette. Disculpa. Se me ha pasado por alto. Hoy lo firmó y le paso al director. Mañana le enviamos sino hoy.
+[27/6/21 12:08:02] Caro Z. de Martínez: Si muchas gracias Ing. es que como desde el día viernes estuve un poquito mal por la vacuna no había podido revisar nada
+[27/6/21 12:08:22] Caro Z. de Martínez: y hoy mis compañeros me consultaron xq no lo había puesto en el repositorio de los entregables
+[27/6/21 12:08:58] Caro Z. de Martínez: y por eso lo molesto, disculpe
+[27/6/21 12:11:10] Ing Pier Maquilón: Gracias. No hay problema. Jueves y Viernes tuve varios temas y por eso se me pasó por alto.
+[27/6/21 12:14:11] Caro Z. de Martínez: Si pudiera avisarme si tienen como darnos hoy le agradeceré mucho, sino para ubicar la fecha de entrega en los comentarios a la docente en el repo.
+[27/6/21 12:35:29] Ing Pier Maquilón: Con más seguridad mañana
+[27/6/21 12:35:42] Ing Pier Maquilón: Porque debe tener también la firma del director
+[27/6/21 12:35:55] Ing Pier Maquilón: Y pues está difícil hoy Domingo
+[27/6/21 12:36:11] Ing Pier Maquilón: Pero si está hoy, se los facilitamos hoy
+[27/6/21 12:36:19] Caro Z. de Martínez: Listo ingeniero gracias
+[27/6/21 13:50:33] Ing Pier Maquilón: Ya firmó el director. En unas horas les paso.
+[27/6/21 15:47:36] Caro Z. de Martínez: Muchísimas gracias Ing
+‎[27/6/21 16:34:19] Ing Pier Maquilón: ‎audio omitido
+[27/6/21 18:37:47] Caro Z. de Martínez: Recibí ya todo sin novedad con sus modificaciones Ing, muchas gracias por todo
+[27/6/21 19:48:30] Ing Pier Maquilón: 👍
+[29/6/21 16:14:29] Caro Z. de Martínez: Buenas tardes Ing
+[29/6/21 16:14:42] Caro Z. de Martínez: Espero se encuentre bien, quería realizarle una consulta
+[29/6/21 16:15:08] Caro Z. de Martínez: Estoy ingresando al servidor vía ssh porque no tengo putty y el espacio actual de la pc no me da para más. Ya puedo ingresar al servidor
+[29/6/21 16:15:18] Caro Z. de Martínez: pero al momento de utilizar "sudo su"
+[29/6/21 16:15:27] Caro Z. de Martínez: no me acepta la clave que usted nos pasó
+[29/6/21 16:15:45] Caro Z. de Martínez: A mi compañero que usa el putty si le funciona, podría ser por algún motivo en especial?
+[29/6/21 16:23:19] Ing Pier Maquilón: Hola. Al hacer sudo su estás poniendo la clave del robot?
+[29/6/21 16:23:28] Ing Pier Maquilón: Root*
+[29/6/21 16:23:52] Caro Z. de Martínez: Si Ing la que está en el archivo q usted nos pasó como “su”
+[29/6/21 16:31:00] Ing Pier Maquilón: Y si le pones su, sin el sudo, te deja hacerlo?
+[29/6/21 16:31:19] Ing Pier Maquilón: Quizás en sudo su, primero te pide la clave del usuario userCiifen
+[29/6/21 16:31:55] Ing Pier Maquilón: (O Ciifen Usr, no lo recuerdo exactamente)
+[29/6/21 16:32:02] Ing Pier Maquilón: Con el que te has comectado
+[29/6/21 16:32:37] Ing Pier Maquilón: No creo que haya alguna diferencia entre conectarte vía putty o vía ssh
+[29/6/21 17:57:38] Caro Z. de Martínez: 😁
+[29/6/21 17:57:41] Caro Z. de Martínez: así era
+[29/6/21 18:27:53] Ing Pier Maquilón: 👍
+[5/7/21 12:56:34] Ing Pier Maquilón: Buenas tardes, Lessette. Espero estés muy bien. Podrías enviarme unas capturas de pantalla de la aplicación móvil y del sistema web de visualización?
+[5/7/21 12:58:47] Caro Z. de Martínez: Buenas tardes Ingeniero
+[5/7/21 12:59:06] Caro Z. de Martínez: Gracias, igualmente espero que se encuentre bien
+[5/7/21 12:59:47] Caro Z. de Martínez: Deme un momentito si
+[5/7/21 13:04:40] Ing Pier Maquilón: Gracias
+[5/7/21 13:05:47] Ing Pier Maquilón: También quería consultar si es posible agregar en este sprint una nueva modalidad de ingreso de datos (o sea, como la dirección del viento que es diferente a los campos numéricos).
+[5/7/21 13:08:21] Ing Pier Maquilón: Quisiéramos habilitar variables cuyos datos sean ingresados a través de una escala de Likern: cuando te indican que califiques del 1 al 5 tu percepción acerca de algo y usan radio buttons para poner la respuesta.
+[5/7/21 13:12:17] Ing Pier Maquilón: Cada instancia de este tipo de variables debe estar asociada a una pregunta
+[5/7/21 13:13:28] Caro Z. de Martínez: Ya le pedí a los chicos lo de las capturas, ellos me han de pasar en el transcurso del día xq estamos en semana de exámenes y algunos ya están por entrar. Del apk si es seguro q hay pero de visualización estamos levantando los endpoints, xq recién es para este sprint q está cursando
+[5/7/21 13:13:44] Caro Z. de Martínez: Aún no hay visualizaciones en el sistema
+[5/7/21 13:19:59] Caro Z. de Martínez: Lo q se podría hacer es lo mismo q con la dirección del viento, se crea un registro de variable en la base de datos y se ubica el horario “diario” y en el tipo de dato se guarda como “likern “ de tal manera ya en el apk se configuran esas opciones
+[5/7/21 13:21:15] Caro Z. de Martínez: Igual conversaré con los chicos xq el tiempo ya no es mucho para cerrar la materia por eso ya queremos en algún momento concentrarnos en la documenta
+[5/7/21 13:21:19] Caro Z. de Martínez: Documentación *
+[5/7/21 13:23:26] Ing Pier Maquilón: Gracias. Puede ser solo de la app móvil. Es para un reporte.
+[5/7/21 13:24:11] Caro Z. de Martínez: Listo Ing apenas me envíen yo le paso
+[3/8/21 10:11:18] Caro Z. de Martínez: Disculpe haberme ausentado tanto he teñido unos problemitas en el hogar y por eso he llevado a medias este parcial… Se ha avanzado en el tema de visualizaciones en la parte web, perfil del usuario en la parte móvil y las pantallas pendientes de ingreso de instrumentos y horarios q habíamos definido
+[3/8/21 10:11:43] Caro Z. de Martínez: Cuando usted desee estos días podríamos reunirnos
+[3/8/21 10:11:52] Caro Z. de Martínez: Para mostrarles ese avance
+[3/8/21 10:12:36] Caro Z. de Martínez: Ya está funcionando estable  sin problemas todas estas semanas el backend y la base en el servidor que nos dio
+[3/8/21 10:15:16] Ing Pier Maquilón: buen día, Lessette.
+Espero estés muy bien. Esta semana estoy algo complicado de tiempo pues estamos organizando unas capacitaciones. Creo que podría ser la próxima semana o quizás el viernes en la tarde. SENAMHI me contactó, pidiendo una reunión donde se pueda mostrar los avances del sistema. Podrían mostrarnos los avances a nosotros y luego a SENAMHI?
+[3/8/21 10:19:52] Caro Z. de Martínez: Si claro Ingeniero no hay problema
+[3/8/21 10:20:02] Caro Z. de Martínez: Este viernes podría ser con ustedes?
+[3/8/21 10:20:24] Ing Pier Maquilón: déjame confirmar con el director
+[3/8/21 10:20:43] Ing Pier Maquilón: sería a las 3pm?
+[3/8/21 10:20:47] Caro Z. de Martínez: Listo Ing muy amable a la hora q ustedes deseen no hay problema
+[3/8/21 10:20:56] Ing Pier Maquilón: ok
+[3/8/21 10:21:20] Ing Pier Maquilón: voy a consultar
+[3/8/21 10:21:48] Caro Z. de Martínez: Gracias, quedo a la espera. Que tenga un excelente día…
+[3/8/21 10:23:04] Ing Pier Maquilón: Igualmente
+[4/8/21 09:15:07] Ing Pier Maquilón: Buenos días, Lessette. Podríamos tener la reunión el día Viernes a las 3pm?
+[4/8/21 09:32:04] Caro Z. de Martínez: Buen día Ingeniero si claro ya lo había conversado ayer con mis compañeros
+[4/8/21 09:33:31] Ing Pier Maquilón: oh, veo. Pensé que no te lo había indicado
+[4/8/21 10:25:27] Caro Z. de Martínez: Nosotros le pasaríamos el enlace de zoom Ing para el viernes
+[4/8/21 10:36:49] Ing Pier Maquilón: 👍gracias
+[4/8/21 10:37:26] Caro Z. de Martínez: A usted 😊
+[6/8/21 14:23:24] Caro Z. de Martínez: Buenas tardes ingeniero
+[6/8/21 14:23:37] Caro Z. de Martínez: https://cedia.zoom.us/j/84392358151 este será el link de la reunión de hoy
+[6/8/21 14:26:17] Ing Pier Maquilón: Buenas tardes, Lessette. Entendido.
+[13/8/21 07:42:44] Caro Z. de Martínez: ‎audio omitido
+[13/8/21 10:17:20] Ing Pier Maquilón: Hola, Lessette. Creo que puede ser mañana en la mañana.
+[13/8/21 10:19:28] Ing Pier Maquilón: en el transcurso del día te defino la hora
+[13/8/21 10:47:42] Caro Z. de Martínez: Gracias Ingeniero
+[13/8/21 17:27:20] Ing Pier Maquilón: Puede ser a las 8h30?
+[13/8/21 18:01:34] Caro Z. de Martínez: Por cierto se realizaron los cambios en la app, la tabla de registros de cambios para las observaciones en bases de datos
+[13/8/21 20:03:21] Caro Z. de Martínez: Listo Ingeniero mañana 8am
+[13/8/21 20:03:24] Caro Z. de Martínez: me confirmaron
+[13/8/21 21:25:08] Ing Pier Maquilón: 🙂👍
+Entendido. 
+Buenas noches.
+[13/8/21 21:25:42] Caro Z. de Martínez: Listo ingeniero gracias
+[14/8/21 08:02:13] Ing Pier Maquilón: Buen día. Me facilita el enlace?
+[14/8/21 08:03:31] Caro Z. de Martínez: https://cedia.zoom.us/j/8346047611
+[14/8/21 17:52:32] Caro Z. de Martínez: Buenas noches Ingeniero le parece la reunión a las 2030 disculpe
+[14/8/21 18:09:39] Caro Z. de Martínez: Sino me avisa y lo hacemos con tranquilidad mañana a las 10 am
+[14/8/21 18:27:13] Ing Pier Maquilón: A las 10 am mañana
+[14/8/21 18:27:35] Caro Z. de Martínez: Listo Ingeniero, utilizaremos el mismo link
+[14/8/21 18:27:43] Caro Z. de Martínez: .
+[14/8/21 18:27:46] Ing Pier Maquilón: Ok
+[14/8/21 18:27:51] Ing Pier Maquilón: 👍
+[15/8/21 09:59:00] Caro Z. de Martínez: Ingeniero buenos días disculpe
+[15/8/21 09:59:06] Caro Z. de Martínez: ‎Eliminaste este mensaje.
+[15/8/21 09:59:16] Caro Z. de Martínez: Ya estamos listos
+[16/8/21 16:53:10] Caro Z. de Martínez: Buenas tardes ingeniero
+[16/8/21 16:53:16] Caro Z. de Martínez: Disculpe que lo interrumpa
+‎[16/8/21 16:53:50] Caro Z. de Martínez: actaReunion_agosto06_2021.docx ‎documento omitido
+‎[16/8/21 16:53:50] Caro Z. de Martínez: actaReunion_agosto13_2021.docx ‎documento omitido
+‎[16/8/21 16:53:50] Caro Z. de Martínez: Conformidad_SprintFinal.docx ‎documento omitido
+[16/8/21 16:54:10] Caro Z. de Martínez: Estos son los documentos que faltar[ian legalizar
+[16/8/21 16:54:54] Caro Z. de Martínez: En el acta de conformidad ubiqué al Ing Juan José pero si el no pudiera firmar lo puede eliminar nomás
+[16/8/21 16:55:06] Caro Z. de Martínez: Muchas gracias, y disculpe
+[16/8/21 17:25:08] Ing Pier Maquilón: Hola, ya firmé las que podía. Le solicité la firma al director. Mañana ha de firmarlo.
+[16/8/21 17:26:20] Caro Z. de Martínez: Listo, muchísimas gracias
+[23/8/21 10:41:30] Ing Pier Maquilón: Buenos días, Lessette. Espero estés muy bien. Por favor, no se olviden de pasarme la documentación y fuentes del sistema desarrollado
+‎[23/8/21 11:58:35] Caro Z. de Martínez: ‎audio omitido
+[23/8/21 13:07:58] Ing Pier Maquilón: Oh, entiendo. Muchas gracias. Entonces, quedo al pendiente.
+[23/8/21 13:10:42] Caro Z. de Martínez: Si Ingeniero salimos de estos pendientes y le entregamos como se debe todo
+[23/8/21 13:12:47] Ing Pier Maquilón: pueden facilitarme una grabación de la presentación de la app móvil? En estos días vamos a ver el tema de la implementación para emplearlo en reportes de ssequía, como les había indicado.
+[23/8/21 13:13:16] Caro Z. de Martínez: Claro ingeniero ya la pido
+[23/8/21 16:01:20] Caro Z. de Martínez: Es la versión actual de la app mostrada en video Ingeniero
+[23/8/21 16:01:27] Caro Z. de Martínez: Me indica si es suficiente
+‎[23/8/21 16:01:01] Caro Z. de Martínez: Observers ‎documento omitido
+[23/8/21 16:03:06] Ing Pier Maquilón: Muchas gracias. Ya lo descargo.
+[23/8/21 16:03:21] Caro Z. de Martínez: Listo Ingeniero
+[23/8/21 16:20:45] Ing Pier Maquilón: Esto es IA?
+[23/8/21 16:21:26] Ing Pier Maquilón: Está muy bien el video. Si tienen uno de la parte del sistema web, por favor, también facilítamelo.
+[23/8/21 16:22:12] Caro Z. de Martínez: Listo ingeniero yo le pediré a mi compañero
+[23/8/21 16:22:17] Caro Z. de Martínez: Afirmativo
+
